@@ -89,6 +89,54 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 
 ---
 
+✨ 언제나 탐구하고, 언제나 배우고, 언제나 만들어갑니다.  
+
+======================================================================================
+
+## 👋 Привет, я **Суяруклов Азизбек (Tonny)**  
+
+💻 Full Stack разработчик  
+🌱 Сейчас изучаю: Python, SQL и PHP  
+📱 Интересы: Full-Stack разработка, облачные технологии и кибербезопасность  
+📝 Девиз: *«Пиши код с целью, учись с увлечением.»*  
+
+---
+
+## 🚀 Обо мне
+Я увлечённый разработчик, который любит создавать масштабируемые и удобные для пользователей приложения.  
+Моя цель — писать чистый и поддерживаемый код, а также изучать новые инструменты и технологии.  
+Я верю в постоянное развитие, командную работу и создание полезных цифровых решений.  
+
+---
+
+## 🛠 Технологический стек  
+
+**Frontend**  
+HTML, CSS, SASS, JavaScript, TypeScript, EJS, ReactJS, Redux, Axios, Socket.io-Client, Sweetalert2, Animejs, React-Router-Dom, Swiper, Motion-framer, Typed.js, Three.js, TUIEditor, TViewer, Hooks, Context API, JSON, MUI, Fetch API, REST APIs, GraphQL, Prettier, Chrome DevTools
+
+**Backend**  
+NodeJS, ExpressJS, MongoDB, Mongoose, Express-Session, JWT, Bcryptjs, Multer, Socket.IO, Cookie-Parser, Dotenv, Form-Data, TypeORM, Helmet, CORS, Passport, Pdfkit, Fluent-Ffmpeg, Puppeteer, Cheerio, Jest, PM2, Nodemon, Dayjs, UUID, Winston, Pinoo, Jest
+
+**DevOps**  
+Linux (Ubuntu), Nginx, DNS, Firewall, Docker, PM2, GitHub Pages, Render  
+
+**Инструменты**  
+VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Figma, Bun  
+
+---
+
+## 📊 Статистика GitHub
+![Tonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazyboismile&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyboismile&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Контакты
+📧 Email: **lazyboijon@gmail.com**  
+🐙 GitHub: [@lazyboismile](https://github.com/lazyboismile)  
+
+---
+
 ## 🖼 Skills Icons
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -120,8 +168,3 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
-
----
-
-✨ 언제나 탐구하고, 언제나 배우고, 언제나 만들어갑니다.  
-
