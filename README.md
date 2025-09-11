@@ -36,7 +36,7 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 ---
 
 ## 📬 Contact
-📧 Email: [lazyboijon@gmail.com]
+📧 email: **lazyboijon@gmail.com**  
 🐙 GitHub: [@lazyboismile](https://github.com/lazyboismile)  
 
 ---
