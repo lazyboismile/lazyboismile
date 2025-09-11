@@ -18,14 +18,16 @@ I believe in continuous growth, collaboration, and creating impactful digital so
 ## 🛠 Tech Stack
 
 **Frontend**  
-HTML, CSS, JavaScript (ES6+), TypeScript, ReactJS, Redux, Next.js, TailwindCSS, MUI, Framer Motion, Axios, Socket.IO Client, Sweetalert2, Anime.js, Swiper, React-Router, Three.js
+HTML, CSS, SASS, JavaScript, TypeScript, EJS, ReactJS, Redux, Axios, Socket.io-Client, Sweetalert2, Animejs, React-Router-Dom, Swiper, Motion-framer, Typed.js, Three.js, TUIEditor, TViewer, Hooks, Context API, JSON, MUI, Fetch API, REST APIs, GraphQL, Prettier, Chrome DevTools
 
 **Backend**  
-Node.js, Express.js, MongoDB, Mongoose, JWT, Bcrypt, Multer, Socket.IO, TypeORM, Passport, CORS, Helmet, PM2, Puppeteer, Cheerio, Jest
+NodeJS, ExpressJS, MongoDB, Mongoose, Express-Session, JWT, Bcryptjs, Multer, Socket.IO, Cookie-Parser, Dotenv, Form-Data, TypeORM, Helmet, CORS, Passport, Pdfkit, Fluent-Ffmpeg, Puppeteer, Cheerio, Jest, PM2, Nodemon, Dayjs, UUID, Winston, Pinoo, Jest
 
-**DevOps & Tools**  
-Linux (Ubuntu), Docker, Nginx, GitHub Pages, Render, Postman, VSCode, Git, FileZilla, MongoDB Compass, Figma
+**DevOps**  
+Linux (Ubuntu), Nginx, DNS, Firewall, Docker, PM2, GitHub Pages, Render
 
+**Tools**  
+VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Figma, Bun
 ---
 
 ## 📊 GitHub Stats
@@ -35,7 +37,7 @@ Linux (Ubuntu), Docker, Nginx, GitHub Pages, Render, Postman, VSCode, Git, FileZ
 ---
 
 ## 📬 Contact
-📧 Email: **[your-email-here]**  
+📧 Email: [lazyboijon@gmail.com]
 🐙 GitHub: [@lazyboismile](https://github.com/lazyboismile)  
 
 ---
