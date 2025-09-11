@@ -41,6 +41,54 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 
 ---
 
+✨ Always exploring. Always learning. Always building.  
+
+======================================================================================
+
+## 👋 안녕하세요, 저는 **수야르클로프 아지즈벡 (Tonny)** 입니다  
+
+💻 풀스택 개발자  
+🌱 현재 배우는 중: Python, SQL, PHP  
+📱 관심사: 풀스택 개발, 클라우드 기술, 사이버 보안  
+📝 좌우명: *"목적 있는 코드를 작성하고, 열정으로 배운다."*
+
+---
+
+## 🚀 자기소개
+저는 확장 가능하고 사용자 친화적인 애플리케이션을 만드는 것을 즐기는 개발자입니다.  
+깨끗하고 유지보수 가능한 코드를 작성하는 데 집중하며, 새로운 도구와 기술을 탐구합니다.  
+끊임없는 성장, 협업, 그리고 의미 있는 디지털 솔루션을 만드는 것을 믿습니다.  
+
+---
+
+## 🛠 기술 스택  
+
+**프론트엔드**  
+HTML, CSS, SASS, JavaScript, TypeScript, EJS, ReactJS, Redux, Axios, Socket.io-Client, Sweetalert2, Animejs, React-Router-Dom, Swiper, Motion-framer, Typed.js, Three.js, TUIEditor, TViewer, Hooks, Context API, JSON, MUI, Fetch API, REST APIs, GraphQL, Prettier, Chrome DevTools
+
+**백엔드**  
+NodeJS, ExpressJS, MongoDB, Mongoose, Express-Session, JWT, Bcryptjs, Multer, Socket.IO, Cookie-Parser, Dotenv, Form-Data, TypeORM, Helmet, CORS, Passport, Pdfkit, Fluent-Ffmpeg, Puppeteer, Cheerio, Jest, PM2, Nodemon, Dayjs, UUID, Winston, Pinoo, Jest
+
+**DevOps**  
+Linux (Ubuntu), Nginx, DNS, Firewall, Docker, PM2, GitHub Pages, Render
+
+**도구**  
+VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Figma, Bun  
+
+---
+
+## 📊 GitHub 통계
+![Tonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazyboismile&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyboismile&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 연락처
+📧 이메일: **lazyboijon@gmail.com**  
+🐙 깃허브: [@lazyboismile](https://github.com/lazyboismile)  
+
+---
+
 ## 🖼 Skills Icons
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -73,4 +121,7 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
-✨ Always exploring. Always learning. Always building.  
+---
+
+✨ 언제나 탐구하고, 언제나 배우고, 언제나 만들어갑니다.  
+
