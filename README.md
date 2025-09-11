@@ -1,8 +1,7 @@
-## Hi there 👋
+## 👋 Hi, I'm **Suyarqulov Azizbek (Tonny)**  
 
-👋 Hi, I'm **Suyarqulov Azizbek (Tonny)**  
-💻 Passionate Developer | Problem Solver | Lifelong Learner  
-🌱 Currently learning: Advanced React, Docker, and Korean language  
+💻 Full Stack Developer
+🌱 Currently learning: Python, SQL, and PHP
 📱 Interested in: Full-Stack Development, Cloud Technologies, and Cyber Security  
 📝 Motto: *"Code with purpose, learn with passion."*
 
