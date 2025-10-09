@@ -4,7 +4,7 @@
   <p>
     <a href="https://github.com/lazyboismile"><img src="https://img.shields.io/badge/GitHub-lazyboismile-181717?style=flat&logo=github"/></a>
     <a href="mailto:lazyboijon@gmail.com"><img src="https://img.shields.io/badge/Email-lazyboijon@gmail.com-D14836?style=flat&logo=gmail"/></a>
-    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/></a>
+    <a href="https://www.linkedin.com/in/azizbek-suyarqulov/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lazyboismile.lazyboismile" alt="Visitors"/>
   </p>
   <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=61DAFB&center=true&vCenter=true&width=600&lines=Currently+learning+Python,+SQL,+PHP" alt="Typing SVG"/></p>
