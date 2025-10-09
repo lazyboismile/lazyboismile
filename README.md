@@ -1,32 +1,31 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="200" alt="Coding Animation" style="animation: spin 4s linear infinite;"/>
-<style>
-  @keyframes spin { 
-    0% { transform: rotate(0deg); } 
-    100% { transform: rotate(360deg); } 
-  }
-</style>
+  <img src="https://lottie.host/92b73c0e-d1e8-4c83-a771-39a6a6e8b0f2/Y4rJ3jU7nN.json" width="200" alt="Coding Animation"/>
   <h1>👋 Hi, I'm Suyarqulov Azizbek (Tonny)</h1>
   <p>💻 Full-Stack Developer | 🌱 Lifelong Learner | 📝 <i>"Code with purpose, learn with passion."</i></p>
   <p>
     <a href="https://github.com/lazyboismile"><img src="https://img.shields.io/badge/GitHub-lazyboismile-181717?style=flat&logo=github"/></a>
     <a href="mailto:lazyboijon@gmail.com"><img src="https://img.shields.io/badge/Email-lazyboijon@gmail.com-D14836?style=flat&logo=gmail"/></a>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lazyboismile.lazyboismile" alt="Visitors"/>
   </p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=61DAFB&center=true&vCenter=true&width=400&lines=Currently+learning+Python,+SQL,+PHP" alt="Typing SVG"/></p>
 </div>
 
 ---
 
-## 🚀 About Me / 자기소개
+## 🚀 About Me
 I'm a passionate full-stack developer building scalable, user-friendly applications. I focus on clean, maintainable code and love exploring new tools like **Python**, **SQL**, **PHP**, **Cloud Technologies**, and **Cyber Security**. My goal is to create impactful digital solutions through continuous learning and collaboration.
 
-저는 확장 가능하고 사용자 친화적인 애플리케이션을 만드는 열정적인 풀스택 개발자입니다. 깨끗하고 유지보수 가능한 코드를 작성하며, **Python**, **SQL**, **PHP**, **클라우드 기술**, **사이버 보안** 같은 새로운 도구를 탐구합니다. 끊임없는 학습과 협업을 통해 의미 있는 디지털 솔루션을 만드는 것이 목표입니다.
+<details>
+  <summary>🇰🇷 자기소개 (Korean)</summary>
+  저는 확장 가능하고 사용자 친화적인 애플리케이션을 만드는 열정적인 풀스택 개발자입니다. 깨끗하고 유지보수 가능한 코드를 작성하며, **Python**, **SQL**, **PHP**, **클라우드 기술**, **사이버 보안** 같은 새로운 도구를 탐구합니다. 끊임없는 학습과 협업을 통해 의미 있는 디지털 솔루션을 만드는 것이 목표입니다.
+</details>
 
 ---
 
-## 🛠 Tech Stack / 기술 스택
+## 🛠 Tech Stack
 
-### Frontend / 프론트엔드
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
@@ -39,7 +38,7 @@ I'm a passionate full-stack developer building scalable, user-friendly applicati
 
 **Others**: EJS, Axios, Socket.io-Client, Sweetalert2, Animejs, React-Router-Dom, Swiper, Motion-framer, Typed.js, TUIEditor, TViewer, Hooks, Context API, JSON, Fetch API, REST APIs, GraphQL, Prettier, Chrome DevTools
 
-### Backend / 백엔드
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -48,7 +47,7 @@ I'm a passionate full-stack developer building scalable, user-friendly applicati
 
 **Others**: Mongoose, Express-Session, Bcryptjs, Multer, Socket.IO, Cookie-Parser, Dotenv, Form-Data, Helmet, CORS, Passport, Pdfkit, Fluent-Ffmpeg, Puppeteer, Cheerio, Jest, PM2, Nodemon, Dayjs, UUID, Winston, Pinoo
 
-### DevOps & Tools / DevOps 및 도구
+### DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -63,35 +62,38 @@ I'm a passionate full-stack developer building scalable, user-friendly applicati
 React: <progress value="85" max="100"></progress> 85%  
 Node.js: <progress value="80" max="100"></progress> 80%  
 MongoDB: <progress value="75" max="100"></progress> 75%  
-TypeScript: <progress value="75" max="100"></progress> 65%  
+TypeScript: <progress value="75" max="100"></progress> 75%  
 Docker: <progress value="60" max="100"></progress> 60%
 
 ---
 
-## 📊 GitHub Stats / GitHub 통계
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazyboismile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyboismile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyboismile&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazyboismile&theme=tokyonight&hide_border=true&area=true&hide_title=true" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🏗️ Featured Projects
 <div align="center">
   <a href="https://github.com/lazyboismile/axis-auto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=axis-auto&theme=tokyonight&hide_border=true" alt="Axis Auto"/></a>
+  <p>Axis Auto: A web app for car rental management built with React and Node.js.</p>
   <a href="https://github.com/lazyboismile/moon-flower"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=moon-flower&theme=tokyonight&hide_border=true" alt="Moon Flower"/></a>
+  <p>Moon Flower: A creative portfolio showcase using Three.js and Express.</p>
 </div>
 
 ---
 
-## 📬 Contact / 연락처
+## 📬 Contact
 <div align="center">
   <a href="mailto:lazyboijon@gmail.com">📧 lazyboijon@gmail.com</a> | 
-  <a href="https://github.com/lazyboismile">🐙 GitHub: @lazyboismile</a>
+  <a href="https://github.com/lazyboismile">🐙 GitHub: @lazyboismile</a> | 
+  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a>
 </div>
 
 ---
 
 <div align="center">
-  ✨ <i>Always exploring. Always learning. Always building.</i> ✨  
-  ✨ <i>언제나 탐구하고, 언제나 배우고, 언제나 만들어갑니다.</i> ✨
+  ✨ <i>Always exploring. Always learning. Always building.</i> ✨
 </div>
