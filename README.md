@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFIuC4aupt9i/giphy.gif" width="200" alt="Coding Animation"/>
+  <img src="https://lottie.host/92b73c0e-d1e8-4c83-a771-39a6a6e8b0f2/Y4rJ3jU7nN.json" width="200" alt="Coding Animation"/>
   <h1>👋 Hi, I'm Suyarqulov Azizbek (Tonny)</h1>
   <p>💻 Full-Stack Developer | 🌱 Lifelong Learner | 📝 <i>"Code with purpose, learn with passion."</i></p>
   <p>
@@ -66,14 +66,13 @@ Docker: <progress value="60" max="100"></progress> 60%
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazyboismile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyboismile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyboismile&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://metrics.lecoq.io/lazyboismile?template=classic&base=activity&base.activity=1&config.timezone=Asia/Tashkent&plugin_activity=1&theme=tokyonight" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyboismile&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=lazyboismile&theme=tokyonight&hide_border=true&area=true&hide_title=true" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🏗️ Featured Projects
 <div align="center">
-  <a href="https://github.com/lazyboismile/axis-auto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=portfolio&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/lazyboismile/moon-flower"><img src="https://github-readme-stats.vercel.app/api/gist?id=sample-gist&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/lazyboismile/axis-auto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=axis-auto&theme=tokyonight&hide_border=true" alt="Axis Auto"/></a>
+  <a href="https://github.com/lazyboismile/moon-flower"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=moon-flower&theme=tokyonight&hide_border=true" alt="Moon Flower"/></a>
 </div>
 
 ---
