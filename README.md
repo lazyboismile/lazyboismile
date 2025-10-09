@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://lottie.host/92b73c0e-d1e8-4c83-a771-39a6a6e8b0f2/Y4rJ3jU7nN.json" width="200" alt="Coding Animation"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="200" alt="Coding Animation" style="animation: spin 4s linear infinite;"/>
+<style>
+  @keyframes spin { 
+    0% { transform: rotate(0deg); } 
+    100% { transform: rotate(360deg); } 
+  }
+</style>
   <h1>👋 Hi, I'm Suyarqulov Azizbek (Tonny)</h1>
   <p>💻 Full-Stack Developer | 🌱 Lifelong Learner | 📝 <i>"Code with purpose, learn with passion."</i></p>
   <p>
@@ -66,7 +72,7 @@ Docker: <progress value="60" max="100"></progress> 60%
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazyboismile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyboismile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyboismile&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=lazyboismile&theme=tokyonight&hide_border=true&area=true&hide_title=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyboismile&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🏗️ Featured Projects
