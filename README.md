@@ -31,6 +31,10 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 
 ## 📊 GitHub Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyboismile&layout=compact&theme=tokyonight)
+![lazyboismile's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazyboismile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![My Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=your-repo-name&theme=tokyonight)](https://github.com/lazyboismile/your-repo-name)
+[![My Gist Pin](https://github-readme-stats.vercel.app/api/gist?id=your-gist-id&theme=tokyonight)](https://gist.github.com/lazyboismile/your-gist-id)
+![lazyboismile's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazyboismile&layout=compact&theme=tokyonight)
 
 ---
 
