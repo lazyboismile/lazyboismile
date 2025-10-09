@@ -57,7 +57,7 @@ I'm a passionate full-stack developer building scalable, user-friendly applicati
 React: <progress value="85" max="100"></progress> 85%  
 Node.js: <progress value="80" max="100"></progress> 80%  
 MongoDB: <progress value="75" max="100"></progress> 75%  
-TypeScript: <progress value="65" max="100"></progress> 65%  
+TypeScript: <progress value="75" max="100"></progress> 65%  
 Docker: <progress value="60" max="100"></progress> 60%
 
 ---
@@ -67,16 +67,14 @@ Docker: <progress value="60" max="100"></progress> 60%
   <img src="https://github-readme-stats.vercel.app/api?username=lazyboismile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyboismile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyboismile&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=lazyboismile&theme=tokyonight&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://metrics.lecoq.io/lazyboismile?template=classic&base=activity&base.activity=1&config.timezone=Asia/Tashkent&plugin_activity=1&theme=tokyonight" alt="GitHub Contribution Graph"/>
 </div>
 
 ## 🏗️ Featured Projects
 <div align="center">
-  <a href="https://github.com/lazyboismile/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=portfolio&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://gist.github.com/lazyboismile/sample-gist"><img src="https://github-readme-stats.vercel.app/api/gist?id=sample-gist&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/lazyboismile/axis-auto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=portfolio&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/lazyboismile/moon-flower"><img src="https://github-readme-stats.vercel.app/api/gist?id=sample-gist&theme=tokyonight&hide_border=true"/></a>
 </div>
-
-*Replace `portfolio` and `sample-gist` with your actual repo name and Gist ID.*
 
 ---
 
