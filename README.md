@@ -7,7 +7,7 @@
     <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lazyboismile.lazyboismile" alt="Visitors"/>
   </p>
-  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=61DAFB&center=true&vCenter=true&width=400&lines=cCurrently+learning+Python,+SQL,+PHPp" alt="Typing SVG"/></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=61DAFB&center=true&vCenter=true&width=600&lines=Currently+learning+Python,+SQL,+PHP" alt="Typing SVG"/></p>
 </div>
 
 ---
@@ -74,11 +74,9 @@ Docker: <progress value="60" max="100"></progress> 60%
 </div>
 
 ## 🏗️ Featured Projects
-<div>
+<div align="center">
   <a href="https://github.com/lazyboismile/axis-auto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=axis-auto&theme=tokyonight&hide_border=true" alt="Axis Auto"/></a>
-  <p>Axis Auto: A web app for car rental management built with React and Node.js.</p>
   <a href="https://github.com/lazyboismile/moon-flower"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=moon-flower&theme=tokyonight&hide_border=true" alt="Moon Flower"/></a>
-  <p>Moon Flower: A creative portfolio showcase using Three.js and Express.</p>
 </div>
 
 ---
