@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Suyarqulov Azizbek (Tonny)</h1>
+  <h1><img src="https://camo.githubusercontent.com/b76e877604182439f8f3769efc321b504e9641e99cc3ee1b20e2d0cc7c9e5b89/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d7a643063486c6d4d326777615468684e475a6d4e336475616e4272613230346554427463475273656e4e73636d35306248683662435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f645a4347554f6972486e6834394e303354462f67697068792e676966" alt="Tonny GIF">
+ Hi, I'm Suyarqulov Azizbek (Tonny)</h1>
   <p>💻 Full-Stack Developer | 🌱 Lifelong Learner | 📝 <i>"Code with purpose, learn with passion."</i></p>
   <p>
     <a href="https://github.com/lazyboismile"><img src="https://img.shields.io/badge/GitHub-lazyboismile-181717?style=flat&logo=github"/></a>
