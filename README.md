@@ -68,15 +68,7 @@ Docker: <progress value="60" max="100"></progress> 60%
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazyboismile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyboismile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyboismile&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## 🏗️ Featured Projects
-<div align="center">
-  <a href="https://github.com/lazyboismile/axis-auto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=axis-auto&theme=tokyonight&hide_border=true" alt="Axis Auto"/></a>
-  <a href="https://github.com/lazyboismile/moon-flower"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyboismile&repo=moon-flower&theme=tokyonight&hide_border=true" alt="Moon Flower"/></a>
 </div>
 
 ---
@@ -84,7 +76,7 @@ Docker: <progress value="60" max="100"></progress> 60%
 ## 📬 Contact
 <div align="center">
   <a href="mailto:lazyboijon@gmail.com">📧 lazyboijon@gmail.com</a> | 
-  <a href="https://github.com/lazyboismile">🐙 GitHub: @lazyboismile</a> | 
+  <a href="https://github.com/lazyboismile">GitHub: @lazyboismile</a> | 
   <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a>
 </div>
 
