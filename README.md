@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/azizbek-suyarqulov/"><img src="https://img.shields.io/badge/LinkedIn-Azizbek%20Suyarqulov-2A2A40?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lazyboismile.lazyboismile" alt="Visitors"/>
   </p>
-  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=61DAFB&center=true&vCenter=true&width=600&lines=Currently+learning+Python,+SQL,+PHP" alt="Typing SVG"/></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=61DAFB&center=true&vCenter=true&width=600&lines=Software+Engineer" alt="Typing SVG"/></p>
 </div>
 
 ---
