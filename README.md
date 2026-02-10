@@ -24,7 +24,7 @@
 ```typescript
 const azizbek = {
     role: "Full Stack Developer",
-    location: "Tashkent, Uzbekistan 🇺🇿",
+    location: "Tashkent, Uzbekistan",
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     technologies: {
         frontend: ["React", "Next.js", "Redux", "Three.js", "GSAP"],
