@@ -57,13 +57,6 @@ I'm a passionate full-stack developer building scalable, user-friendly applicati
 
 **Others**: GitHub Pages, Render, Yarn, NVM, NPM, Z Shell, FileZilla, MongoDB Compass, Bun
 
-### Skill Progress
-React: <progress value="85" max="100"></progress> 85%  
-Node.js: <progress value="80" max="100"></progress> 80%  
-MongoDB: <progress value="75" max="100"></progress> 75%  
-TypeScript: <progress value="75" max="100"></progress> 75%  
-Docker: <progress value="60" max="100"></progress> 60%
-
 ---
 
 ## 📊 GitHub Stats
